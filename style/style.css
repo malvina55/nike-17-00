@@ -25,8 +25,29 @@ body {
 
 /* nav */
 /* header content */
+.header__content {
+ background: url(../images/headerContent.jpg)no-repeat center /cover;
+ height: 565px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+}
+.header__box{
+  
+ text-align: center;
+}
+.header__content-title {
+ font-size: 50px;
+line-height: 59px;
+color: #FFFFFF;
 
-
+}
+.header__content-link{
+      font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
 
 /* header content */
 /* news */
